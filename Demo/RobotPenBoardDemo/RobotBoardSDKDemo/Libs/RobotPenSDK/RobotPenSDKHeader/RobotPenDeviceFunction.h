@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 #import "RobotPenHeader.h"
+/** DM6_TAL*/
+#define isDM6_TAL YES
 
 typedef enum {
     /** 旧特性 **/
